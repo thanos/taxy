@@ -1,3 +1,11 @@
+"""
+A Syntazo project
+
+(c)1997,1998,1999,2000-2008 Thanos Vassilakis
+
+
+"""
+
 import stackless
 
 class DeliveryAgent(object): 
